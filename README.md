@@ -22,10 +22,13 @@ Train: python aviris_generation_physics.py
 
 Test: python aviris_generation_physics_test.py
 
-More details:  
+More details(models and generate results):  
 https://pan.baidu.com/s/1JB2z9zVCu0QJMFKcITLLGA?pwd=8voy 
 
 The grss_dfc_2018 dataset can be downloaded with the link: 
 https://pan.baidu.com/s/1q3CVQgeQaUxZlLZgOVHYsA?pwd=qu4x
+
+The aviris dataset can be downloaded with the link:
+https://pan.baidu.com/s/1dph1UK-BT_TgP0kD_erPaA?pwd=zbj1 
 
 
